@@ -1,0 +1,32 @@
+All sound effects and BGM tracks in public/assets/audio/ are sourced from Freesound.org
+and OpenGameArt.org under the Creative Commons Zero (CC0 1.0 Universal / Public Domain) license:
+
+Freesound (CC0 1.0):
+- Lightsaber Swings & Strikes (swing0, swing1, swing2, swing3, strike2) by joe93barlow
+  (https://freesound.org/people/joe93barlow/packs/4961/)
+- Lightsaber Beam Slash (lightsaber3.mp3) by gyzhor
+  (https://freesound.org/people/gyzhor/sounds/47125/)
+
+OpenGameArt (CC0 1.0):
+- Swishes Sound Pack (halo_throw) (https://opengameart.org/content/swishes-sound-pack)
+- Sword Clashes & Sword Swings (parry_clash, enemy_sword) by StarNinjas
+  (https://opengameart.org/content/10-sword-clashes / https://opengameart.org/content/10-sword-swings)
+- 100 CC0 SFX (parry_bell, enemy_shot, impacts, explosions, warning gong) by rubberduck
+  (https://opengameart.org/content/100-cc0-sfx)
+- 80 CC0 RPG SFX (enemy_wave, pickups, switch) by rubberduck
+  (https://opengameart.org/content/80-cc0-rpg-sfx)
+- 75 CC0 Breaking / Falling / Hit SFX (enemy_die, shield_clang, glass, crate, hurt) by rubberduck
+  (https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx)
+- RPG Sound Pack (parry_ring, enemy_swing, dash, jump_hop, cloth, menu) by artisticdude
+  (https://opengameart.org/content/rpg-sound-pack)
+- Cure Magic SFX (halo_chime, crystal_sparkle, crystal_burst) (https://opengameart.org/content/cure-magic)
+- Completion Sound / Crystal Chime (https://opengameart.org/content/completion-sound)
+- Magic Words / Health Restore (https://opengameart.org/content/magic-words-healing-sound-effect)
+- Teleport Spell (https://opengameart.org/content/teleport-spell)
+- Vampire's Piano (Title BGM) by TAD (https://opengameart.org/content/vampires-piano)
+- JRPG Epic Rock Battle Theme #1 (Stage BGM) by HydroGene
+  (https://opengameart.org/content/jrpg-epic-rock-battle-theme-1)
+- Boss Battle (Loop) (Boss BGM) by Pro Sensory / Alex McCulloch
+  (https://opengameart.org/content/boss-battle-loop)
+- 150 Combat Sound Effects (CoMiGo's Bleeps and Bloops: SmallImpact_01/02, Impact_01, BlastImpact_01/02)
+  (https://opengameart.org/content/150-combat-sound-effects)

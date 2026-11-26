@@ -1,0 +1,8 @@
+All GothicVania enemies, bosses, FX, parallax backgrounds & carved stone masonry tiles in
+public/assets/sprites/gothic/ and world_tiles.png are sourced from Ansimuz's GothicVania packs
+on OpenGameArt.org under Creative Commons Zero (CC0 1.0 Universal / Public Domain):
+
+- GothicVania Patreon's Collection (https://opengameart.org/content/gothicvania-patreons-collection)
+- GothicVania Church Pack (https://opengameart.org/content/gothicvania-church-pack)
+- GothicVania Cemetery Pack (https://opengameart.org/content/gothicvania-cemetery-pack)
+- GothicVania Bridge Expansion Pack 1 (https://opengameart.org/content/gothicvania-bridge-expansion-pack-1)

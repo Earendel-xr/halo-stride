@@ -1,0 +1,5 @@
+Additional Foley Combat & Impact Sound Assets:
+- swish_1.wav, swish_2.wav, swish_3.wav: "Swishes Sound Pack" (OpenGameArt, CC0 1.0 Public Domain)
+- foley_blunt.ogg, body_bounce.ogg, blade_slice.ogg, footstep_stone.ogg: "RPG Audio" by Kenney.nl (CC0 1.0 Public Domain)
+- foley_slap_1.ogg, foley_slap_2.ogg, foley_hit_light.ogg, foley_hit_med.ogg, foley_hit_heavy.ogg, foley_hit_slam.ogg: "Punch, Slap n' Kick" (OpenGameArt, CC-BY 3.0)
+- body_fall.wav: "Falling Body" (OpenGameArt, CC-BY-SA 3.0)
